@@ -1,0 +1,3761 @@
+{
+    "billingEngineRelated": {
+        "fileAttached": false,
+        "mailType": "under_payment_end_of_grace_period",
+        "overPaymentDifference": 0,
+        "paymentAmount": 0,
+        "paymentReminderDays": 0,
+        "underPaymentDifference": 0
+    },
+    "customerInformation": {
+        "addr1": "addresss1",
+        "addr2": "addresss2",
+        "addr3": "addresss3",
+        "city": "London",
+        "company": "BadCompany",
+        "countryCode": "DE",
+        "customerType": "PRIVATE",
+        "email": "cutomer@emial.com",
+        "firstName": "FirstName",
+        "houseNumber": "houseNo",
+        "lastName": "LastName",
+        "postcode": "postcode",
+        "salutation": "Mr.",
+        "state": "state",
+        "taxId": "taxId"
+    },
+    "orderDate": "1991-01-01",
+    "orderIdentifier": "orderNo000",
+    "orderLanguageCode": "DE",
+    "orderPositions": [
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "222 testvin111 testvin111 testvin111 testvin111 testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+        {
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 1",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 2",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		
+		
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        },
+		{
+            "additionalItemData": {
+                "brand": "VW",
+                "enrolmentCountry": "DE",
+                "modelCode": "100001",
+                "modelName": "mymodel",
+                "vin": "testvin111"
+            },
+            "articleLicense": {
+                "articleRunDuration": "1y",
+                "itemActivationDate": "1991-01-01",
+                "itemExpirationDate": "1991-01-01",
+                "salesItemGrossAmount": 0,
+                "salesItemGroup1": "FOD",
+                "salesItemGroup2": "salesItemGroup2",
+                "salesItemGroup3": "salesItemGroup2",
+                "salesItemName": "salesItemName 3",
+                "salesItemNetAmount": 1,
+                "salesItemNumber": "salesItemNumber",
+                "salesItemQuantity": 1,
+                "salesItemTotalGrossAmount": 120,
+                "salesItemTotalNetAmount": 100,
+                "salesItemTotalVatAmount": 20,
+                "salesItemVatAmount": 20,
+                "salesItemVatRate": 20,
+                "waitForEnablement": true
+            },
+            "orderPositionDependencies": {
+                "sourcePositionNumber": 1,
+                "targetPositionNumber": 1
+            },
+            "positionNumber": 5,
+            "positionType": "CLASSIC"
+        }
+    ],
+    "orderShopCountry": "DE",
+    "orderSource": "CUSTOMER_CARE",
+    "paymentData": {
+        "accno": "accno",
+        "localDate": "1991-01-01",
+        "merchantAccno": "merchantAccno",
+        "partnerReference": "partnerReference",
+        "paymentAmount": 120,
+        "paymentCondition": "CLASSIC",
+        "paymentCurrencyCode": "EUR",
+        "paymentType": "CC_VISA",
+        "programCode": "programCode",
+        "uniqueReference": "uniqueReference"
+    },
+    "invoiceData" : {
+    	"invoiceNumber" : "K1028931D",
+    	"invoiceDate" : "1991-01-01",
+    	"invoiceNetAmount" : 22,
+    	"invoiceGrossAmount" : 26,
+    	"invoiceVat" : 4
+    }
+}
