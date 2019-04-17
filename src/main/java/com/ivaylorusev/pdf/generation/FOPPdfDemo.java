@@ -15,7 +15,6 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
-import java.io.PipedInputStream;
 import java.io.ByteArrayInputStream;
 import java.net.URISyntaxException;
 import java.net.URL;
@@ -51,7 +50,7 @@ public class FOPPdfDemo {
     public static void main(String[] args) throws IOException, InterruptedException {
 
         ObjectMapper mapper = new ObjectMapper();
-        InputStream is = FOPPdfDemo.class.getResourceAsStream("/inputPaymentRequest.json");
+        InputStream is = FOPPdfDemo.class.getResourceAsStream("/FOPPdfDemo/inputPaymentRequest.json");
         PaymentRequest pr = mapper.readValue(is, PaymentRequest.class);
 
         Map<String, List<OrderPosition>> groupBySalesItemName
@@ -113,7 +112,7 @@ public class FOPPdfDemo {
      */
     public void convertToPDF(Source xmlSource) throws IOException, FOPException, TransformerException, URISyntaxException {
         // the XSL FO file
-        URL url = FOPPdfDemo.class.getResource("/template_invoice.xsl");
+        URL url = FOPPdfDemo.class.getResource("/FOPPdfDemo/template_invoice.xsl");
         File xsltFile = new File(url.toURI().getPath());
         // create an instance of fop factory
         FopFactory fopFactory = FopFactory.newInstance(new File(".").toURI());
@@ -121,7 +120,7 @@ public class FOPPdfDemo {
         FOUserAgent foUserAgent = fopFactory.newFOUserAgent();
         // Setup output
         OutputStream out;
-        out = new java.io.FileOutputStream("src/main/resources/invoice.pdf");
+        out = new java.io.FileOutputStream("src/main/resources/FOPPdfDemo/invoice.pdf");
 
         try {
             // Construct fop with desired output format
@@ -142,6 +141,6 @@ public class FOPPdfDemo {
             out.close();
         }
     }
-
-
+    
+    
 }
