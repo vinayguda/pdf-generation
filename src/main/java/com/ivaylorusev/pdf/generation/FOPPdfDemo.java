@@ -12,12 +12,11 @@ import com.ivaylorusev.pdf.generation.outputModel.RootPaymentRequest;
 import com.ivaylorusev.pdf.generation.outputModel.MapPaymentRequest;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.PipedInputStream;
-import java.io.PipedOutputStream;
+import java.io.ByteArrayInputStream;
 import java.net.URISyntaxException;
 import java.net.URL;
 import java.util.ArrayList;
@@ -35,7 +34,6 @@ import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerException;
 import javax.xml.transform.TransformerFactory;
 import javax.xml.transform.sax.SAXResult;
-import javax.xml.transform.stream.StreamResult;
 import javax.xml.transform.stream.StreamSource;
 
 import org.apache.fop.apps.FOPException;
@@ -81,14 +79,14 @@ public class FOPPdfDemo {
             marshaller.setProperty(Marshaller.JAXB_FORMATTED_OUTPUT, true);
 
             //Do the marshal operation
-            marshaller.marshal(rootPaymentRequest, bos);
+            marshaller.marshal(rootPaymentRequest, bos);            
             System.out.println("java object converted to xml successfully.");
         } catch (Exception e) {
             e.printStackTrace();
         }                
 
         FOPPdfDemo fOPPdfDemo = new FOPPdfDemo();
-        StreamSource ss = convertToStreamSource(convertToInputStream(bos));
+        StreamSource ss = new StreamSource(new ByteArrayInputStream(bos.toByteArray()));
         try {
             fOPPdfDemo.convertToPDF(ss);
         } catch (FOPException e) {
@@ -145,25 +143,5 @@ public class FOPPdfDemo {
         }
     }
 
-    private static InputStream convertToInputStream(ByteArrayOutputStream bos) throws IOException, InterruptedException {
-        PipedInputStream in = new PipedInputStream();
-        final PipedOutputStream out = new PipedOutputStream(in);
-        new Thread(new Runnable() {
-            public void run() {
-                try {
-                    // write the original OutputStream to the PipedOutputStream
-                    bos.writeTo(out);
-                } catch (IOException e) {
-                    // logging and exception handling should go here
-                }
-            }
-        }).start();
-        Thread.sleep(1000);
-        return in;
-    }
-    
-    private static StreamSource convertToStreamSource(InputStream is) {
-        return new StreamSource(is);
-    }
 
 }
